@@ -9,13 +9,16 @@
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gesmachado&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
-## I am able to work with these technologies  
+## I am able to work with these technologies
+  * JMeter and Locust
+  * Robot Framework, Cypress and Ranorex
   
 ## Certifications
   * CTFL - https://skillshub.isqi.org/7a620243-afc4-4d95-a677-8babaf8cf227
    
 ## Database
-  
+  * NoSQL : MongoDB
+  * SQL: MySQL and PostgreSQL
   
 ## Find me on social media: 
 <div> 
