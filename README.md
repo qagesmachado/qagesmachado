@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Quality Software Engineer - Performance Testing
 - 🌱 I’m currently learning about Performance test
-- 🎥 I'm currently recording video for my youtube channel - https://www.youtube.com/@qagustavo
+- 🎥 I'm currently recording video for my youtube channel
 
 <div align="center">
   <a href="https://github.com/gesmachado">
