@@ -13,6 +13,9 @@
 ## I am able to work with these technologies
   * JMeter and Locust
   * Robot Framework, Cypress and Ranorex
+  * Python, JavaScript
+  * Postman
+  * Selenium
   
 ## Certifications
   * CTFL - https://skillshub.isqi.org/7a620243-afc4-4d95-a677-8babaf8cf227
