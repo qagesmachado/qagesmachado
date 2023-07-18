@@ -1,8 +1,9 @@
 ### Hello my name is Gustavo Machado and I'm Quality Analist
 
-- 🔭 I’m currently working as Quality Software Engineer - Performance Testing
+- 🔭 I’m currently working as Quality Software Engineer
 - 🌱 I’m currently learning about Performance test
-- 🎥 I'm currently recording video for my youtube channel
+- 🎥 I'm currently recording a video for my youtube channel   
+- 😎 Find me on all my social media through the links below
 
 <div align="center">
   <a href="https://github.com/gesmachado">
@@ -27,7 +28,8 @@
 ## Find me on social media: 
 <div> 
   <a href="https://www.linkedin.com/in/gesmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@qagustavo" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/@qagustavo" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://linktr.ee/qagesmachado" target="_blank"><img src="https://user-images.githubusercontent.com/12532733/90986349-ce9c2600-e547-11ea-9fd5-808801bb5a7d.png" target="_blank"  width="50" height="50" ></a> 
   
   
  
