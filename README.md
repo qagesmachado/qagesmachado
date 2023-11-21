@@ -27,10 +27,14 @@
   * SQL: MySQL and PostgreSQL
   
 ## Find me on social media: 
-<div> 
   <a href="https://www.linkedin.com/in/qagesmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@qagesmachado" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/qagesmachado" target="_blank"><img src="https://user-images.githubusercontent.com/12532733/90986349-ce9c2600-e547-11ea-9fd5-808801bb5a7d.png" target="_blank"  width="50" height="50" ></a> 
-  
+
+## Courses: 
+  * <a href="https://www.udemy.com/course/robot-framework-testes-automatizados-de-interface-e-api/?referralCode=3328501F5ADA67F6232B"> Robot Framework: testes automatizados de interface e API</a>
+  * <a href="https://www.udemy.com/course/postman-do-basico-ao-avancado-com-projetos/?referralCode=3ED49D8F294C92F0B8A1"> Postman do Básico ao Avançado com Projetos</a>
+  * <a href="https://www.udemy.com/course/iniciando-na-area-de-testes-de-software/?referralCode=EA0BC9A8C708B9EBEE5D"> Iniciando na área de testes de software</a>
+
   
  
