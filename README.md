@@ -1,9 +1,10 @@
-### Hello my name is Gustavo Machado and I'm Quality Analist
+### Hello my name is Gustavo Machado and I'm a Quality Analyst
 
-- 🔭 I’m currently working as Quality Software Engineer
-- 🌱 I’m currently learning about Performance test
-- 🎥 I'm currently recording a video for my youtube channel   
+- 🔭 I’m currently working as Senior Quality Software Engineer
+- 🌱 I’m currently learning about Continuous Integration and Continuous Delivery
+- 🎥 I'm currently recording a video for my YouTube channel and my Instagram page
 - 😎 Find me on all my social media through the links below
+- 📘 Teaching other QAs on YouTube and Udemy
 
 <div align="center">
   <a href="https://github.com/gesmachado">
@@ -13,16 +14,16 @@
  
 ## I am able to work with these technologies
   * JMeter and Locust
-  * Robot Framework, Cypress and Ranorex
+  * Robot Framework, Cypress, and Ranorex
   * Python, JavaScript
-  * Postman
-  * Selenium
+  * Postman, Insomnia
+  * Selenium, Playwright
   
 ## Certifications
   * CTFL - https://skillshub.isqi.org/7a620243-afc4-4d95-a677-8babaf8cf227
    
 ## Database
-  * NoSQL : MongoDB
+  * NoSQL: MongoDB
   * SQL: MySQL and PostgreSQL
   
 ## Find me on social media: 
