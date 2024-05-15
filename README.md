@@ -1,4 +1,4 @@
-### Hello my name is Gustavo Machado and I'm a Quality Analyst
+### Hello my name is Gustavo Machado and I'm a Quality Assurance Tester
 
 - 🔭 I’m currently working as Senior Quality Software Engineer
 - 🌱 I’m currently learning about Continuous Integration and Continuous Delivery
@@ -36,6 +36,6 @@
   * <a href="https://www.udemy.com/course/postman-do-basico-ao-avancado-com-projetos/?referralCode=3ED49D8F294C92F0B8A1"> Postman do Básico ao Avançado com Projetos</a>
   * <a href="https://www.udemy.com/course/iniciando-na-area-de-testes-de-software/?referralCode=EA0BC9A8C708B9EBEE5D"> Iniciando na área de testes de software</a>
   * <a href="https://www.udemy.com/course/aprenda-git-e-github-desde-o-basico/?referralCode=007EDB0484C211DD47EB"> Aprenda Git e GitHub desde o básico</a>
-
+  * <a href="https://www.udemy.com/course/preparatorio-para-ctfl-istqbbsqtb/?referralCode=4AB0134D518C12E837A7"> Preparatório para CTFL - ISTQB/BSQTB (3.1.1)</a>
   
  
