@@ -99,7 +99,7 @@
   - [Acesse o certificado digital](https://skillshub.isqi.org/7a620243-afc4-4d95-a677-8babaf8cf227)
 </details>
    
-## Courses:
+## Courses
 
 <details>
   <summary>
