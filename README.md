@@ -13,20 +13,80 @@
 </div>
  
 ## Skills and Technologies
-  * Performance Testing
-    * JMeter and Locust
-  * Automation Frameworks
-    * Robot Framework, Cypress, and Ranorex
-  * Languages
-    * Python, JavaScript
-  * Other tools
-    * Git, Postman, Insomnia
-  * CI/CD
-    * GitHub Action, Azure DevOps
-  * Database
-    * NoSQL: MongoDB
-    * SQL: MySQL and PostgreSQL    
+
+<details>
+  <summary>
+    <a>Languages</a>
+  </summary>
+
+  <a name="language"></a>
   
+  - Python
+  - JavaScript
+</details>
+
+<details>
+  <summary>
+    <a>Automation Frameworks</a>
+  </summary>
+
+  <a name="framework"></a>
+  
+  - Robot Framework
+  - Cypress
+  - Ranorex
+</details>
+
+<details>
+  <summary>
+    <a>Performance Testing</a>
+  </summary>
+
+  <a name="performance"></a>
+  
+  - JMeter
+  - Locust
+
+</details>
+
+<details>
+  <summary>
+    <a>CI/CD</a>
+  </summary>
+
+  <a name="cicd"></a>
+  
+  - Git
+  - GitHub Action
+  - Azure Devops
+  - GitLab
+
+</details>
+
+<details>
+  <summary>
+    <a>Data bases</a>
+  </summary>
+
+  <a name="database"></a>
+  
+  - NoSQL: MongoDB
+  - SQL: MySQL and PostgreSQL 
+
+</details>
+
+<details>
+  <summary>
+    <a>Other tools</a>
+  </summary>
+
+  <a name="tools"></a>
+  
+  - Postman
+  - Insomnia
+
+</details>
+     
 ## Certifications
 
 <details>
@@ -39,11 +99,6 @@
   - [Acesse o certificado digital](https://skillshub.isqi.org/7a620243-afc4-4d95-a677-8babaf8cf227)
 </details>
    
-## Find me on social media: 
-  <a href="https://www.linkedin.com/in/qagesmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@qagesmachado" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://linktr.ee/qagesmachado" target="_blank"><img src="https://user-images.githubusercontent.com/12532733/90986349-ce9c2600-e547-11ea-9fd5-808801bb5a7d.png" target="_blank"  width="50" height="50" ></a> 
-
 ## Courses:
 
 <details>
@@ -104,3 +159,8 @@
 ## Free playlist on Youtube
 
 working on
+
+## Find me on social media: 
+  <a href="https://www.linkedin.com/in/qagesmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@qagesmachado" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://linktr.ee/qagesmachado" target="_blank"><img src="https://user-images.githubusercontent.com/12532733/90986349-ce9c2600-e547-11ea-9fd5-808801bb5a7d.png" target="_blank"  width="50" height="50" ></a> 
