@@ -1,10 +1,10 @@
-### Hello my name is Gustavo Machado and I'm a Quality Assurance Tester
-
+### About me 
+- 😎 Hello my name is Gustavo Machado and I'm a Quality Assurance Tester
 - 🔭 I’m currently working as a Senior Software QA Engineer
 - 🌱 I’m currently learning about Continuous Integration and Continuous Delivery
 - 🎥 I'm currently recording a video for my YouTube channel and my Instagram page
 - 😎 Find me on all my social media through the links below
-- 📘 Teaching other QAs on YouTube, Udemy and particular mentorship programs
+- 📘 Teaching other QAs on YouTube, Udemy, and particular mentorship programs
 
 <div align="center">
   <a href="https://github.com/gesmachado">
@@ -12,7 +12,7 @@
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gesmachado&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
-## I am able to work with these technologies
+## I have these skills and I can work with these technologies
   * Performance Testing
     * JMeter and Locust
   * Automation Frameworks
