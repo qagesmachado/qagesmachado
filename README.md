@@ -1,10 +1,10 @@
 ### Hello my name is Gustavo Machado and I'm a Quality Assurance Tester
 
-- 🔭 I’m currently working as Senior Quality Software Engineer
+- 🔭 I’m currently working as a Senior Software QA Engineer
 - 🌱 I’m currently learning about Continuous Integration and Continuous Delivery
 - 🎥 I'm currently recording a video for my YouTube channel and my Instagram page
 - 😎 Find me on all my social media through the links below
-- 📘 Teaching other QAs on YouTube and Udemy
+- 📘 Teaching other QAs on YouTube, Udemy and particular mentorship programs
 
 <div align="center">
   <a href="https://github.com/gesmachado">
