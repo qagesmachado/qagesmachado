@@ -158,6 +158,17 @@
 
 ## Free playlist on Youtube
 
+<details>
+  <summary>
+    <a>Guia - Git e Github</a>
+  </summary>
+
+  <a name="git_github"></a>
+  
+  - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01jZQoExDtTzonpo757E6r_S)
+  - [Acesse o repositório](https://github.com/gesmachado/youtube_git_github)
+</details>
+
 working on
 
 ## Find me on social media: 
