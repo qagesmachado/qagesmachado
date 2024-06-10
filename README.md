@@ -142,7 +142,7 @@
   <a name="git_github"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/aprenda-git-e-github-desde-o-basico/?referralCode=007EDB0484C211DD47EB)
-  - [Acesse o repositório](https://github.com/gesmachado/udemy_curso_introducao_testes)
+  - [Acesse o repositório](https://github.com/gesmachado/udemy_curso_gitgithub)
 </details>
 
 <details>
