@@ -58,7 +58,7 @@
   
   - Git
   - GitHub Action
-  - Azure Devops
+  - Azure DevOps
   - GitLab
 
 </details>
@@ -178,6 +178,18 @@
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01jLIp0tCtQafj2fj_ogs4Et)
   - [Acesse o repositório](https://github.com/gesmachado/youtube_como_fazer_com_robot)
+</details>
+
+<details>
+  <summary>
+    <a>Robot Framework básico - API e UI</a>
+  </summary>
+
+  <a name="como_fazer_robot"></a>
+  
+  - [Acesse a playlist - UI](https://www.youtube.com/playlist?list=PLVQdoQTyi01i6poQTkmHuKaPv4LqREX6w)
+  - [Acesse a playlist - API](https://www.youtube.com/playlist?list=PLVQdoQTyi01i-2XS-YY0WtbrIFr7sryUb)
+  - [Acesse o repositório](https://github.com/gesmachado/youtube_robot_ui_api_basic)
 </details>
 
 ## Find me on social media: 
