@@ -109,7 +109,7 @@
   <a name="robot"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/robot-framework-testes-automatizados-de-interface-e-api/?referralCode=3328501F5ADA67F6232B)
-  - [Acesse o repositório](https://github.com/gesmachado/robot_basic_udemy)
+  - [Acesse o repositório](https://github.com/gesmachado/udemy_curso_robot_framework)
 </details>
 
 <details>
