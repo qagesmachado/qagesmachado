@@ -12,7 +12,7 @@
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gesmachado&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
-## I have these skills and I can work with these technologies
+## Skills and Technologies
   * Performance Testing
     * JMeter and Locust
   * Automation Frameworks
