@@ -185,11 +185,22 @@
     <a>Robot Framework básico - API e UI</a>
   </summary>
 
-  <a name="como_fazer_robot"></a>
+  <a name="robot_ui_api"></a>
   
   - [Acesse a playlist - UI](https://www.youtube.com/playlist?list=PLVQdoQTyi01i6poQTkmHuKaPv4LqREX6w)
   - [Acesse a playlist - API](https://www.youtube.com/playlist?list=PLVQdoQTyi01i-2XS-YY0WtbrIFr7sryUb)
   - [Acesse o repositório](https://github.com/gesmachado/youtube_robot_ui_api_basic)
+</details>
+
+<details>
+  <summary>
+    <a>Robot framework - Faker API</a>
+  </summary>
+
+  <a name="robot_faker_api"></a>
+  
+  - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01ifjkQkXsApB-vyQj05QZAy)
+  - [Acesse o repositório](https://github.com/gesmachado/youtube_robot_framework_faker_api)
 </details>
 
 ## Find me on social media: 
