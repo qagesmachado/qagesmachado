@@ -13,19 +13,23 @@
 </div>
  
 ## I am able to work with these technologies
-  * JMeter and Locust
-  * Robot Framework, Cypress, and Ranorex
-  * Python, JavaScript
-  * Postman, Insomnia
-  * Selenium, Playwright
+  * Performance Testing
+    * JMeter and Locust
+  * Automation Frameworks
+    * Robot Framework, Cypress, and Ranorex
+  * Languages
+    * Python, JavaScript
+  * Other tools
+    * Git, Postman, Insomnia
+  * CI/CD
+    * GitHub Action, Azure DevOps
+  * Database
+    * NoSQL: MongoDB
+    * SQL: MySQL and PostgreSQL    
   
 ## Certifications
   * CTFL - https://skillshub.isqi.org/7a620243-afc4-4d95-a677-8babaf8cf227
    
-## Database
-  * NoSQL: MongoDB
-  * SQL: MySQL and PostgreSQL
-  
 ## Find me on social media: 
   <a href="https://www.linkedin.com/in/qagesmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@qagesmachado" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
