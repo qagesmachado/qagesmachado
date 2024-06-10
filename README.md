@@ -203,6 +203,17 @@
   - [Acesse o repositório](https://github.com/gesmachado/youtube_robot_framework_faker_api)
 </details>
 
+<details>
+  <summary>
+    <a>Projeto API do Trello</a>
+  </summary>
+
+  <a name="trelo_api"></a>
+  
+  - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01gfbJEseu7v-ctgOMTL_jLy)
+  - [Acesse o repositório](https://github.com/gesmachado/youtube_trelo_api)
+</details>
+
 ## Find me on social media: 
   <a href="https://www.linkedin.com/in/qagesmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@qagesmachado" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
