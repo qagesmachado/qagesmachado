@@ -7,9 +7,9 @@
 - 📘 Teaching other QAs on YouTube, Udemy, and particular mentorship programs
 
 <div align="center">
-  <a href="https://github.com/gesmachado">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gesmachado&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gesmachado&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <a href="https://github.com/qagesmachado">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qagesmachado&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qagesmachado&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
 ## Skills and Technologies
@@ -109,7 +109,7 @@
   <a name="robot"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/robot-framework-testes-automatizados-de-interface-e-api/?referralCode=3328501F5ADA67F6232B)
-  - [Acesse o repositório](https://github.com/gesmachado/udemy_curso_robot_framework)
+  - [Acesse o repositório](https://github.com/qagesmachado/udemy_curso_robot_framework)
 </details>
 
 <details>
@@ -131,7 +131,7 @@
   <a name="iniciando_em_qa"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/iniciando-na-area-de-testes-de-software/?referralCode=EA0BC9A8C708B9EBEE5D)
-  - [Acesse o repositório](https://github.com/gesmachado/udemy_curso_introducao_testes)
+  - [Acesse o repositório](https://github.com/qagesmachado/udemy_curso_introducao_testes)
 </details>
 
 <details>
@@ -142,7 +142,7 @@
   <a name="git_github"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/aprenda-git-e-github-desde-o-basico/?referralCode=007EDB0484C211DD47EB)
-  - [Acesse o repositório](https://github.com/gesmachado/udemy_curso_gitgithub)
+  - [Acesse o repositório](https://github.com/qagesmachado/udemy_curso_gitgithub)
 </details>
 
 <details>
@@ -166,7 +166,7 @@
   <a name="git_github"></a>
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01jZQoExDtTzonpo757E6r_S)
-  - [Acesse o repositório](https://github.com/gesmachado/youtube_git_github)
+  - [Acesse o repositório](https://github.com/qagesmachado/youtube_git_github)
 </details>
 
 <details>
@@ -177,7 +177,7 @@
   <a name="como_fazer_robot"></a>
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01jLIp0tCtQafj2fj_ogs4Et)
-  - [Acesse o repositório](https://github.com/gesmachado/youtube_como_fazer_com_robot)
+  - [Acesse o repositório](https://github.com/qagesmachado/youtube_como_fazer_com_robot)
 </details>
 
 <details>
@@ -189,7 +189,7 @@
   
   - [Acesse a playlist - UI](https://www.youtube.com/playlist?list=PLVQdoQTyi01i6poQTkmHuKaPv4LqREX6w)
   - [Acesse a playlist - API](https://www.youtube.com/playlist?list=PLVQdoQTyi01i-2XS-YY0WtbrIFr7sryUb)
-  - [Acesse o repositório](https://github.com/gesmachado/youtube_robot_ui_api_basic)
+  - [Acesse o repositório](https://github.com/qagesmachado/youtube_robot_ui_api_basic)
 </details>
 
 <details>
@@ -200,7 +200,7 @@
   <a name="robot_faker_api"></a>
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01ifjkQkXsApB-vyQj05QZAy)
-  - [Acesse o repositório](https://github.com/gesmachado/youtube_robot_framework_faker_api)
+  - [Acesse o repositório](https://github.com/qagesmachado/youtube_robot_framework_faker_api)
 </details>
 
 <details>
@@ -211,7 +211,7 @@
   <a name="trelo_api"></a>
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01gfbJEseu7v-ctgOMTL_jLy)
-  - [Acesse o repositório](https://github.com/gesmachado/youtube_trelo_api)
+  - [Acesse o repositório](https://github.com/qagesmachado/youtube_trelo_api)
 </details>
 
 ## Find me on social media: 
