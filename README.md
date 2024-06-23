@@ -213,6 +213,17 @@
   - [Acesse o repositório](https://github.com/qagesmachado/youtube_trelo_api)
 </details>
 
+<details>
+  <summary>
+    <a>Guia Postman - básico</a>
+  </summary>
+
+  <a name="postman_basico"></a>
+  
+  - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01iRnGqoIawDKAoo3RIXSoQg)
+  
+</details>
+
 ## Find me on social media: 
   <a href="https://www.linkedin.com/in/qagesmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@qagesmachado" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
