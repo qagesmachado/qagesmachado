@@ -153,7 +153,6 @@
   <a name="ctfl"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/preparatorio-para-ctfl-istqbbsqtb/?referralCode=4AB0134D518C12E837A7)
-  - [Acesse o repositório]()
 </details>
 
 ## Free playlist on Youtube
