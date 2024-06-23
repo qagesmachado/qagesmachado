@@ -120,7 +120,7 @@
   <a name="postman"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/postman-do-basico-ao-avancado-com-projetos/?referralCode=3ED49D8F294C92F0B8A1)
-  - [Acesse o repositório]()
+  - [Acesse o repositório](https://github.com/qagesmachado/udemy_curso_postman_basico_avancado)
 </details>
 
 <details>
