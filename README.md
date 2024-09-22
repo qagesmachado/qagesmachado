@@ -114,6 +114,18 @@
 
 <details>
   <summary>
+    <a>Robot Framework: Básico - WEB e API</a>
+  </summary>
+
+  <a name="robot"></a>
+  
+  - [Acesse o curso](https://www.udemy.com/course/robot-framework-basico-web-e-api/?referralCode=B09F2BA773489543DCC5)
+  - [Acesse o repositório](https://github.com/qagesmachado/udemy_curso_basico_robot_framework)
+</details>
+
+
+<details>
+  <summary>
     <a>Postman do Básico ao Avançado com Projetos</a>
   </summary>
 
