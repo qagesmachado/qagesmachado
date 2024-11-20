@@ -233,7 +233,80 @@
   <a name="postman_basico"></a>
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01iRnGqoIawDKAoo3RIXSoQg)
+</details>
+
+<details>
+  <summary>
+    <a>Guia - Cypress Web e API</a>
+  </summary>
+
+  <a name="cypress_ui_api"></a>
   
+  - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01hAYibssFzQRhFkt4GaW78c)
+  - [Acesse o repositório](https://github.com/qagesmachado/youtube_cypress_guia_web_api)
+</details>
+
+<details>
+  <summary>
+    <a>Dicionário do QA</a>
+  </summary>
+
+  <a name="dicionario_qa"></a>
+  
+  - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01hqTv6xB-rF-v9RjzHVJAtf)
+</details>
+
+<details>
+  <summary>
+    <a>CTFL 4.0 - Curso Rápido</a>
+  </summary>
+
+  <a name="ctfl_4"></a>
+  
+  - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01gV4YTQVABrV4OPVhfove9U)
+</details>
+
+<details>
+  <summary>
+    <a>CTFL 3.1.1 - Curso Rápido</a>
+  </summary>
+
+  <a name="ctfl_3"></a>
+  
+  - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01hbMZksfI1zeqHvonY8VG5C)
+</details>
+
+<details>
+  <summary>
+    <a>Exercícios de Lógica de Programação com Python</a>
+  </summary>
+
+  <a name="logica_python"></a>
+  
+  - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01jBjb1XuvcAVW9IysudL4g0)
+  - [Acesse o repositório](https://github.com/qagesmachado/youtube_python_exercises)
+</details>
+
+## Check out my event presentations
+
+<details>
+  <summary>
+    <a>4AllTest - 2024</a>
+  </summary>
+
+  <a name="4alltest_2024"></a>
+  
+  - [Acesse a apresentação](https://youtu.be/I3pbZbObpQY?si=IjshPDbd4qwOOLkc)
+</details>
+
+<details>
+  <summary>
+    <a>QA Solidário 2ª Edição</a>
+  </summary>
+
+  <a name="qa_solidario_2"></a>
+  
+  - [Acesse a apresentação](https://www.youtube.com/live/cQb2w2tu2Es?si=eNi9mJVxADZ66H8H)
 </details>
 
 ## Find me on social media: 
