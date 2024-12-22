@@ -104,11 +104,10 @@
 </details>
 
 ## About me repository
-- [English] If you'd like to explore my Portuguese profile, feel free to check out the repository below.
-- [Portuguese] Se quiser conhecer meu perfil em português, dê uma olhada no repositório abaixo.
+#### [English] If you'd like to explore my Portuguese profile, feel free to check out the repository below.
+#### [Portuguese] Se quiser conhecer meu perfil em português, dê uma olhada no repositório abaixo.
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=qagesmachado\&repo=qagesmachado-pt-br\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-
+[![Portuguese Profile](https://github-readme-stats.vercel.app/api/pin?username=qagesmachado\&repo=qagesmachado-pt-br\&theme=vision-friendly-dark)](https://github.com/qagesmachado/qagesmachado-pt-br)
 
 ## Check out my event presentations
 
