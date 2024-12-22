@@ -105,7 +105,7 @@
 </details>
 
 ## My courses
-[![Portuguese Profile](https://github-readme-stats.vercel.app/api/pin?username=qagesmachado\&repo=qagesmachado-pt-br\&theme=vision-friendly-dark)](https://github.com/qagesmachado/qagesmachado-pt-br)
+[![Portuguese Profile](https://github-readme-stats.vercel.app/api/pin?username=eu-qa\&repo=.github\&theme=vision-friendly-dark&show_owner=true)](https://github.com/EU-QA)
 
 ## Check out my event presentations
 
