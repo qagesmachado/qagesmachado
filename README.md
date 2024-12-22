@@ -3,14 +3,15 @@
 </div>
 
 ## About me 
-- 😎 Hello my name is Gustavo Machado and I'm a Software QA Tester
-- 🔭 I'm currently working as a Software QA Engineer
-- 🌱 I'm currently learning about Continuous Integration and Continuous Delivery
-- 🎥 I'm currently recording a video for my YouTube channel and my Instagram page
-- 😎 Find me on all my social media through the links below
+- 😎 Hello my name is Gustavo Machado.
+- 🔭 I'm currently working as a Software QA Engineer.
+- 🌱 I'm currently learning about Software Quality Process Development
+- 🎥 I have a [YouTube channel](https://www.youtube.com/@qagesmachado) to share content about Software Quality 
+- 😎 Find me on all my social media through the following [link](https://linktr.ee/qagesmachado).
 - 📘 Teaching other QAs on YouTube, Udemy, and particular mentorship programs
 
 <div align="center">
+  <a href="https://github.com/qagesmachado">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qagesmachado&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qagesmachado&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
@@ -105,6 +106,7 @@
 ## About me repository
 - [English] If you'd like to explore my Portuguese profile, feel free to check out the repository below.
 - [Portuguese] Se quiser conhecer meu perfil em português, dê uma olhada no repositório abaixo.
+
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=qagesmachado\&repo=qagesmachado-pt-br\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 
