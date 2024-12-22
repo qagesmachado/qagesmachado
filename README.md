@@ -116,7 +116,7 @@
 
   <a name="4alltest_2024"></a>
   
-  - [Acesse a apresentação](https://youtu.be/I3pbZbObpQY?si=IjshPDbd4qwOOLkc)
+  - [Go to presentation link](https://youtu.be/I3pbZbObpQY?si=IjshPDbd4qwOOLkc)
 </details>
 
 <details>
@@ -126,7 +126,7 @@
 
   <a name="qa_solidario_2"></a>
   
-  - [Acesse a apresentação](https://www.youtube.com/live/cQb2w2tu2Es?si=eNi9mJVxADZ66H8H)
+  - [Go to presentation link](https://www.youtube.com/live/cQb2w2tu2Es?si=eNi9mJVxADZ66H8H)
 </details>
 
 <details>
@@ -136,7 +136,17 @@
 
   <a name="qa_cultura_vincit"></a>
   
-  - [Acesse a apresentação](https://www.youtube.com/live/4C8-4op5GI0?si=BerfIuwachRq3ePs)
+  - [Go to presentation link](https://www.youtube.com/live/4C8-4op5GI0?si=BerfIuwachRq3ePs)
+</details>
+
+<details>
+  <summary>
+    <a>QA Solidário 3ª Edição</a>
+  </summary>
+
+  <a name="qa_solidario_3"></a>
+  
+  - [Soon]()
 </details>
 
 ## Find me on social media: 
