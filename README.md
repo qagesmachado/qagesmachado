@@ -8,14 +8,15 @@
 - 🌱 I'm currently learning about Software Quality Process Development
 - 🎥 I have a [YouTube channel](https://www.youtube.com/@qagesmachado) to share content about Software Quality 
 - 😎 Find me on all my social media through the following [link](https://linktr.ee/qagesmachado).
-- 📘 Teaching other QAs on YouTube, Udemy, and particular mentorship programs
+- 📘Founder and administrator of [EU QA | Cursos](https://github.com/EU-QA)
 
 <div align="center">
   <a href="https://github.com/qagesmachado">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qagesmachado&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qagesmachado&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qagesmachado&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qagesmachado&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  </a>
 </div>
- 
+
 ## Skills and Technologies
 
 <details>
@@ -103,10 +104,7 @@
   - [Acesse o certificado digital](https://skillshub.isqi.org/7a620243-afc4-4d95-a677-8babaf8cf227)
 </details>
 
-## About me repository
-#### [English] If you'd like to explore my Portuguese profile, feel free to check out the repository below.
-#### [Portuguese] Se quiser conhecer meu perfil em português, dê uma olhada no repositório abaixo.
-
+## My courses
 [![Portuguese Profile](https://github-readme-stats.vercel.app/api/pin?username=qagesmachado\&repo=qagesmachado-pt-br\&theme=vision-friendly-dark)](https://github.com/qagesmachado/qagesmachado-pt-br)
 
 ## Check out my event presentations
