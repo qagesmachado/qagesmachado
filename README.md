@@ -129,6 +129,16 @@
   - [Acesse a apresentação](https://www.youtube.com/live/cQb2w2tu2Es?si=eNi9mJVxADZ66H8H)
 </details>
 
+<details>
+  <summary>
+    <a>QA Culture Vincit 2024</a>
+  </summary>
+
+  <a name="qa_cultura_vincit"></a>
+  
+  - [Acesse a apresentação](https://www.youtube.com/live/4C8-4op5GI0?si=BerfIuwachRq3ePs)
+</details>
+
 ## Find me on social media: 
   <a href="https://www.linkedin.com/in/qagesmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@qagesmachado" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
