@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning about Software Quality Process Development
 - 🎥 I have a [YouTube channel](https://www.youtube.com/@qagesmachado) to share content about Software Quality 
 - 😎 Find me on all my social media through the following [link](https://linktr.ee/qagesmachado).
-- 📘Founder and administrator of [EU QA | Cursos](https://github.com/EU-QA)
+- 📘Founder and administrator of [Gustavo Machado QA - Cursos e Mentorias](https://github.com/qagesmachado-cursos)
 
 <div align="center">
   <a href="https://github.com/qagesmachado">
@@ -105,7 +105,7 @@
 </details>
 
 ## My courses
-[![Portuguese Profile](https://github-readme-stats.vercel.app/api/pin?username=eu-qa\&repo=.github\&theme=vision-friendly-dark&show_owner=true)](https://github.com/EU-QA)
+[![Portuguese Profile](https://github-readme-stats.vercel.app/api/pin?username=qagesmachado-cursos\&repo=.github\&theme=vision-friendly-dark&show_owner=true)](https://github.com/qagesmachado-cursos)
 
 ## Check out my event presentations
 
