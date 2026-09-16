@@ -15,7 +15,8 @@ Atuo com qualidade de software **desde 2018** (quase 9 anos): estratégia de tes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-qagesmachado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qagesmachado/)
 [![YouTube](https://img.shields.io/badge/YouTube-Gustavo%20Machado%20QA-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@qagesmachado)
 [![Udemy](https://img.shields.io/badge/Udemy-Cursos-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/qagesmachado/)
-[![GitHub](https://img.shields.io/badge/Cursos%20e%20Mentorias-qagesmachado--cursos-181717?style=for-the-badge&logo=github)](https://github.com/qagesmachado-cursos)
+[![GitHub](https://img.shields.io/badge/Cursos%20e%20YouTube-qagesmachado--cursos-181717?style=for-the-badge&logo=github)](https://github.com/qagesmachado-cursos)
+[![GitHub](https://img.shields.io/badge/Serviços-qagesmachado--servicos-181717?style=for-the-badge&logo=github)](https://github.com/qagesmachado-servicos)
 
 ---
 
@@ -77,20 +78,36 @@ Formação: Engenharia Eletrônica e de Telecomunicações (UFU), com pós-gradu
 
 ---
 
-## Organização: Gustavo Machado QA — Cursos e Mentorias
+## Cursos e mentorias
 
-Fundador e administrador de [**qagesmachado-cursos**](https://github.com/qagesmachado-cursos).
+Fundador de [Gustavo Machado QA - Cursos e Mentorias](https://github.com/qagesmachado-cursos).
 
-A organização concentra o material de ensino: repositórios dos cursos, projetos das aulas ao vivo e o código das playlists do YouTube. O foco é formar QAs com conteúdo aplicável — da base teórica à automação e ao CI/CD.
+Cursos na [Udemy](https://www.udemy.com/user/qagesmachado/):
 
-O que você encontra lá:
+- Robot Framework: testes automatizados de interface e API
+- Iniciando na área de testes de software
+- Preparatório para CTFL (ISTQB/BSTQB)
+- Postman do básico ao avançado com projetos
+- Git e GitHub
+- Integração contínua com GitHub Actions
 
-- Cursos online (Udemy): Robot Framework, Postman, Git/GitHub, GitHub Actions, CTFL e introdução à área de testes
-- Turmas ao vivo: preparatório CTFL 4.0, testes de API com Postman e automação com Cypress
-- Playlists gratuitas no YouTube, com repositórios de apoio
-- Mentoria para capacitação de QA Engineer (em breve)
+---
 
-[![Gustavo Machado QA - Cursos e Mentorias](https://github-readme-stats.shion.dev/api/pin?username=qagesmachado-cursos&repo=.github&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/qagesmachado-cursos)
+## Serviços
+
+Organização: [Gustavo Machado QA - Serviços Prestados](https://github.com/qagesmachado-servicos).
+
+Espaço para contratação de serviços de teste e qualidade de software. Atuo na área desde 2018 (quase 9 anos), com projetos nacionais e internacionais em web, API, mobile, desktop e telecomunicações.
+
+Serviços que presto:
+
+- Estratégia e processos de qualidade
+- Automação de testes (web, API e mobile)
+- Testes de performance
+- Integração de testes em pipelines de CI/CD
+- Mentoria e capacitação de times de QA
+
+Para contratar: [LinkedIn](https://www.linkedin.com/in/qagesmachado/) ou a organização [qagesmachado-servicos](https://github.com/qagesmachado-servicos).
 
 ---
 
@@ -111,10 +128,10 @@ O que você encontra lá:
 
 ---
 
-## O que você encontra neste GitHub
+## O que você encontra nos GitHubs
 
-- Exemplos de automação e templates
-- Materiais de apoio para aulas, cursos e o canal
-- Experimentos com ferramentas de qualidade
+- [qagesmachado](https://github.com/qagesmachado) — perfil pessoal, experimentos e templates
+- [qagesmachado-cursos](https://github.com/qagesmachado-cursos) — cursos, YouTube e mentorias
+- [qagesmachado-servicos](https://github.com/qagesmachado-servicos) — prestação de serviços de QA
 
 Foco em qualidade aplicável ao mercado, com visão de engenharia.
