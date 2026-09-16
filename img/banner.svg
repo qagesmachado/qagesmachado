@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Gustavo Machado  Senior Software QA Engineer">
+  <rect width="1200" height="360" fill="#0d1117"/>
+  <rect x="0" y="0" width="10" height="360" fill="#c41e3a"/>
+  <rect x="0" y="350" width="1200" height="10" fill="#c41e3a"/>
+  <rect x="48" y="118" width="72" height="4" fill="#c41e3a"/>
+  <text x="48" y="108" fill="#f0f6fc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700">Gustavo Machado</text>
+  <text x="48" y="168" fill="#c41e3a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600">Senior Software QA Engineer · CTFL</text>
+  <text x="48" y="214" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Automação · Performance · Processos de qualidade · Formação de QAs</text>
+  <text x="48" y="268" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Uberlândia, MG · github.com/qagesmachado</text>
+</svg>
