@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="img/banner.svg" alt="Gustavo Machado — Senior Software QA Engineer" width="100%" />
+  <img src="img/banner.png" alt="Gustavo Machado — Senior Software QA Engineer" width="100%" />
 </div>
 
 # Gustavo Machado
 
 **Senior Software QA Engineer**, certificado **CTFL** e educador.
 
-Atuo com qualidade de software de ponta a ponta: estratégia de testes, automação, performance, pipelines e construção de processos. Também ensino QA no YouTube, na Udemy e em mentorias.
+Atuo com qualidade de software **desde 2018** (quase 9 anos): estratégia de testes, automação, performance, pipelines e construção de processos. Também ensino QA no YouTube, na Udemy e em mentorias.
 
 ---
 
@@ -21,7 +21,7 @@ Atuo com qualidade de software de ponta a ponta: estratégia de testes, automaç
 
 ## Sobre mim
 
-Sou Software QA Engineer com 7+ anos de experiência em projetos nacionais e internacionais, cobrindo **web, API, mobile, desktop e telecomunicações**.
+Sou Software QA Engineer desde **2018** — quase **9 anos** de atuação em projetos nacionais e internacionais, cobrindo **web, API, mobile, desktop e telecomunicações**.
 
 Minha atuação combina execução (manuais e automatizados) com construção de processo: requisitos, cultura de qualidade, evidências e integração dos testes no CI/CD.
 
@@ -77,18 +77,20 @@ Formação: Engenharia Eletrônica e de Telecomunicações (UFU), com pós-gradu
 
 ---
 
-## Cursos e mentorias
+## Organização: Gustavo Machado QA — Cursos e Mentorias
 
-Fundador de [Gustavo Machado QA - Cursos e Mentorias](https://github.com/qagesmachado-cursos).
+Fundador e administrador de [**qagesmachado-cursos**](https://github.com/qagesmachado-cursos).
 
-Cursos na [Udemy](https://www.udemy.com/user/qagesmachado/):
+A organização concentra o material de ensino: repositórios dos cursos, projetos das aulas ao vivo e o código das playlists do YouTube. O foco é formar QAs com conteúdo aplicável — da base teórica à automação e ao CI/CD.
 
-- Robot Framework: testes automatizados de interface e API
-- Iniciando na área de testes de software
-- Preparatório para CTFL (ISTQB/BSTQB)
-- Postman do básico ao avançado com projetos
-- Git e GitHub
-- Integração contínua com GitHub Actions
+O que você encontra lá:
+
+- Cursos online (Udemy): Robot Framework, Postman, Git/GitHub, GitHub Actions, CTFL e introdução à área de testes
+- Turmas ao vivo: preparatório CTFL 4.0, testes de API com Postman e automação com Cypress
+- Playlists gratuitas no YouTube, com repositórios de apoio
+- Mentoria para capacitação de QA Engineer (em breve)
+
+[![Gustavo Machado QA - Cursos e Mentorias](https://github-readme-stats.shion.dev/api/pin?username=qagesmachado-cursos&repo=.github&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/qagesmachado-cursos)
 
 ---
 
